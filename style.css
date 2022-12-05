@@ -1,0 +1,30 @@
+.container {
+  margin: 0px 166px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.header {
+  font-family: "Kanit", sans-serif;
+  font-family: "Kdam Thmor Pro", sans-serif;
+}
+
+.header-title {
+  margin-top: 50px;
+  font-size: 32px;
+}
+
+img {
+  height: 400px;
+  width: 350px;
+  margin-top: 50px;
+  box-shadow: rgba(0, 0, 0, 0.4) 0px 30px 90px;
+}
+
+.header-subtitle {
+  margin-top: 150px;
+}
+
+li {
+  margin-bottom: 2em;
+}
